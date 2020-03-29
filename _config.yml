@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:  纯洁的微笑
+title:  笑对生活
 subtitle: 分享技术，品味人生
-name: 纯洁的微笑 
-email: ityouknow@126.com
-description: 本站是纯洁的微笑的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
-keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
+name: 笑对生活 
+email: 18753370912@163.com
+description: 本站是笑对生活的技术分享博客。内容涵盖网络、嵌入式知识分享。
+keywords: 网络,嵌入式,c++,c,Python,
 encoding: "utf-8"
 favicon: favicon.ico 
 
@@ -21,7 +21,7 @@ url: http://zhaorong2020.github.io
 enforce_ssl: ityouknow.com
 
 ## Gem
-plugins:
+plugins_dir:
   - jekyll-paginate
   - jekyll-geo-pattern
   - rouge
@@ -229,7 +229,7 @@ skill_software_keywords: [Java, MySQL, Oracle, Design Patterns]
 skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
 skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, NodeJS, ExpressJS, MongoDB, Redis, PHP,  Boostrap]
 skill_mobile_app_keywords: [vuejs, hyhird app]
-
+gems: [jekyll-paginate]
 
 # ---------------- #
 #      Comments    #
