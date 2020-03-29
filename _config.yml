@@ -213,7 +213,9 @@ classes:
 #       RSS        #
 # ---------------- #
 subscribe_rss: /feed.xml
-
+sass:
+    sass_dir: _sass
+    style: compressed
 # Sidebar to show popular repo
 side_bar_repo_limit: 6 # Number of repos to show
 
