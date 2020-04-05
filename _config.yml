@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: zhaorong2020/zhaorong2020.github.io
 github_url: https://github.com/zhaorong2020
 url: http://zhaorong2020.github.io
-enforce_ssl: ityouknow.com
+enforce_ssl: zhaorong2020.com
 
 ## Gem
 plugins_dir:
@@ -68,7 +68,7 @@ menus:
 
   -
     href: /money.html
-    label: 挣钱
+    label: 小知识
     target: _self   
 
   -
@@ -99,37 +99,37 @@ navs:
     label: Home
 
   -
-    href: /cartoon.html
-    label: 漫画
+    href: /linux.html
+    label: Linux
     target: _self
 
   -
-    href: /spring-boot.html
-    label: Spring Boot
+    href: /network-protocol.html
+    label: Network
     target: _self
     subnav:
 
       -
-        subHref: /spring-boot.html
-        subLabel: Spring Boot
+        subHref: /network-protocol.html
+        subLabel: network-protocol
 
       -
-        subHref: /spring-cloud.html
-        subLabel: Spring Cloud
+        subHref: /network-socket.html
+        subLabel: network-socket
 
   -
     href: http://www.justdojava.com
-    label: Java
+    label: 算法
     target: _blank
     subnav:
 
       -
         subHref: /java.html
-        subLabel: Jvm 系列文章
+        subLabel: 数据结构
         
       -
         subHref: http://www.justdojava.com
-        subLabel: Java 极客技术
+        subLabel: 算法
         target: _blank
 
   -
@@ -240,19 +240,19 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: ityouknow
+    username: zhaorong2020
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ityouknow
-    repo: blog-comments
+    owner: zhaorong2020
+    repo: blogtalk
     oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+        client_id: 675cc7e85c4d576adb67
+        client_secret: 4c0c5c37ea4fbfcedd1be8538d13c30393198d20
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
-    repo: blog-comments
-    clientID: 61bfc53d957e74e78f8f
-    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+    owner: zhaorong2020
+    repo: blogtalk
+    clientID: 675cc7e85c4d576adb67
+    clientSecret: 4c0c5c37ea4fbfcedd1be8538d13c30393198d20
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
