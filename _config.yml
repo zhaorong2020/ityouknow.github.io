@@ -16,7 +16,7 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 repository: zhaorong2020/zhaorong2020.github.io
-github_url: http://github.com/zhaorong2020
+github_url: https://github.com/zhaorong2020
 url: http://zhaorong2020.github.io
 enforce_ssl: zhaorong2020.com
 
