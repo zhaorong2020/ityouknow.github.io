@@ -3,13 +3,10 @@ layout: page
 title: Network Protocol 系列文章
 titlebar: network-protocol
 subtitle: <span class="mega-octicon octicon-cloud-download"></span>&nbsp;&nbsp;
-     <a href ="https://github.com/ityouknow/spring-boot-leaning">更多 Spring Boot 2.0 精选课程 ， <font color="#EB9439">点我</font>查看！</a><br/>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href ="http://www.ityouknow.com/assets/images/keeppuresmile.jpg">关注公众号：<font color="#00FF00">纯洁的微笑</font>，回复"springboot" 进群交流。</a>
-menu: spring-boot
+menu: network-protocol
 css: ['blog-page.css']
-permalink: /spring-boot
-keywords: Spring Boot 教程,Spring Boot 示例,Spring Boot 学习,Spring Boot 资源,Spring Boot 2.0
+permalink: /network-protocol
+keywords: network-protocol 教程,network-protocol 示例,network-protocol 学习,network-protocol 资源
 ---
 
 {% include network-protocol.html %}
