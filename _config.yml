@@ -105,17 +105,17 @@ navs:
 
   -
     href: /network-protocol.html
-    label: Network
+    label: network
     target: _self
     subnav:
 
       -
         subHref: /network-protocol.html
-        subLabel: network-protocol
+        subLabel: network protocol
 
       -
         subHref: /network-socket.html
-        subLabel: network-socket
+        subLabel: network socket
 
   -
     href: http://www.justdojava.com
